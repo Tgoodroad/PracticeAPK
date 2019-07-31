@@ -1,7 +1,7 @@
 
 <widget id="Employee.Health" version="1.0.0">
 <plugin name="cordova-plugin-splashscreen" spec="~5.0.3" />
-<preference name="phonegap-version" value="cli-9.0.0" />
+
      <platform name="android">
               <name>Employee Health and Wellness</name>
                <description>
