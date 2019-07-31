@@ -1,0 +1,20 @@
+
+<widget id="Example.Id" version="0.3.4">
+<plugin name="cordova-plugin-splashscreen" spec="~5.0.3" />
+<preference name="phonegap-version" value="cli-9.0.0" />
+     <platform name="android">
+              <name>Employee Health and Wellness</name>
+               <description>
+              Helping you start healthy habbits. 
+              </description>
+			  <author> Travis Goodroad
+	          </author>
+
+              <icon src="res/mipmap-mdpi/mdpi.png" density="mdpi" />
+              <icon src="res/mipmap-hdpi/hdpi.png" density="hdpi" />
+              <icon src="res/mipmap-xhdpi/xhdpi.png" density="xhdpi" />
+              <icon src="res/mipmap-xxhdpi/xxhdpi.png" density="xxhdpi" />
+			        <icon src="res/mipmap-xxxhdpi/xxxhdpi.png" density="xxxhdpi" />
+              <splash src="res/splash.png" />
+     </platform>
+</widget>
